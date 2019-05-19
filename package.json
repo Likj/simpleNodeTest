@@ -1,0 +1,33 @@
+{
+  "name": "simple-node-test",
+  "version": "1.0.0",
+  "description": "simple node fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Likj/simpleNodeTest.git"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "lzy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Likj/simpleNodeTest/issues"
+  },
+  "homepage": "https://github.com/Likj/simpleNodeTest#readme",
+  "devDependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "conf": "^4.0.2",
+    "ora": "^3.4.0",
+    "sleep": "^6.1.0"
+  },
+  "dependencies": {
+    "alphabetjs": "^0.1.4",
+    "inquirer": "^6.3.1"
+  }
+}
