@@ -1,8 +1,11 @@
 {
-    "name": "node-cli-demo",
-    "version": "1.0.0",
+    "name": "node-cli-lzy",
+    "version": "1.0.1",
     "description": "simple node fun",
     "main": "index.js",
+    "bin": {
+        "cli-demo": "index.js"
+    },
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
